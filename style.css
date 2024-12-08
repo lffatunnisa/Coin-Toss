@@ -13,6 +13,8 @@ body {
     background-size: cover;
 }
 .container {
+    background-color: #1111119d;
+    border-radius: 40px;
     width: 400px;
     padding: 30px;
     position: absolute; 
